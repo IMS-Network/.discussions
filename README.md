@@ -1,2 +1,2 @@
 # .discussions
-Let
+Let's Talk
